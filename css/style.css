@@ -1,0 +1,38 @@
+.parallax {
+  background-image: url("../img/bitcccccc.jpg");
+  min-height: 400px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.headerDiv {
+  height: 150px;
+}
+
+.imgCrypto {
+  position: absolute;
+  right: -10px;
+  width: 150px;
+  height: 150px;
+}
+
+.cardsGrid {
+  width: 80%;
+}
+
+.form-check-input {
+  transform: scale(1.8);
+}
+
+.aboutStyle {
+  text-align: start;
+  margin: auto;
+}
+
+.asafImg {
+  width: 213px;
+  height: 320px;
+  margin-left: auto;
+}
